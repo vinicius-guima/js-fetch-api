@@ -1,3 +1,6 @@
+
+
+
 const corpoTabela = document.querySelector('[data-conteudo-tabela]');
 
 const exibeCliente = (cpf, nome) => {
